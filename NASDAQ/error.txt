@@ -1,0 +1,1 @@
+['ACCP', 'BOLT', 'BOXL', 'BBRX', 'CATYW', 'CCFI', 'IGLE', 'EHR', 'FKLY', 'FKLYU', 'FMAX', 'GNST', 'MAPI', 'MOTA', 'NBCP', 'OTG', 'PRN', 'RSAS', 'RBIO', 'SCCI', 'SRVA', 'VMET', 'VIST', 'WAFDW', 'WNFM', 'ZNWAA']
