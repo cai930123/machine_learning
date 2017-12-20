@@ -1,7 +1,7 @@
 # machine-learning
 This project is for predicting variation of stock price in the future. using keras with tensorflow in the backend. 
 
-## project purpose
+## Project Purpose
 
 stock prediction is one of the most concerning question. This project wants to find a good machine learning method on predicting future stock price variation. This may help to evaluate whether a stock is worth investing.
 
@@ -15,7 +15,7 @@ jupyer notebook installed on local or remote machine.
 
 clone or download the project. Running on Jupyter Notebook. For more details read the markdown of data_processing.ipynb.
 
-## file structure
+## File Structure
 
 * data_processing.ipynb is the entry of this project.
 * data_fetching.ipynb is the data fetching code.
